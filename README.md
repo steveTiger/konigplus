@@ -31,3 +31,5 @@ Reméljük, hogy a jövőben Ön is megismeri cégünket.
 
 ## Kapcsolat:
 - A kapcsolatnál a Hajninál lévő vezetékest kellene megadni, a faxot kitörölni. 
+
+### Jocó hoz majd képeket.   .
