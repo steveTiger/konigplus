@@ -18,11 +18,11 @@ Reméljük, hogy a jövőben Ön is megismeri cégünket.
 ### Nemzetközi szállítmányozás: [ok]
 - A nemzetközi szállítmányozásnál maradhat, ami ott van, csak Ancsát kellene feltüntetni. 
 
-### Belföldi szállítmányozás:
+### Belföldi szállítmányozás: [ok]
 1. Hűtős teherautóink (3,5 – 12 tonna) …….
 2. Kapcsolatnak engem kellene feltüntetni 
 
-### Gépjármű bérbeadás: 
+### Gépjármű bérbeadás: [ok]
 1. Flottánk jellemzően 3,5 és 12 tonnás, hűtős, különböző fuvarfeladatok elvégzésére alkalmas tehergépjárművekből áll, amelyek rövid-, és hosszútávra is bérbevehetők. 
 2. Kapcsolatnak engem és Mátyus Józsit. 
 
