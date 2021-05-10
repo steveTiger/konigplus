@@ -15,18 +15,18 @@ Flottánk jellemzően 3,5 és 12 tonnás, hűtős, különböző fuvarfeladatok 
 Reméljük, hogy a jövőben Ön is megismeri cégünket. 
 
 ## Szolgáltatásaink:  
-- Nemzetközi szállítmányozás:
+### Nemzetközi szállítmányozás:
 - A nemzetközi szállítmányozásnál maradhat, ami ott van, csak Ancsát kellene feltüntetni. 
 
-## Belföldi szállítmányozás:
+### Belföldi szállítmányozás:
 1. Hűtős teherautóink (3,5 – 12 tonna) …….
 2. Kapcsolatnak engem kellene feltüntetni 
 
-## Gépjármű bérbeadás: 
+### Gépjármű bérbeadás: 
 1. Flottánk jellemzően 3,5 és 12 tonnás, hűtős, különböző fuvarfeladatok elvégzésére alkalmas tehergépjárművekből áll, amelyek rövid-, és hosszútávra is bérbevehetők. 
 2. Kapcsolatnak engem és Mátyus Józsit. 
 
-## Állás: 
+## Állás: [ok]
 - Kapcsolatban engem kellene megadni és Mátyus Józsit. 
 
 ## Kapcsolat:
