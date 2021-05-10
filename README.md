@@ -29,7 +29,7 @@ Reméljük, hogy a jövőben Ön is megismeri cégünket.
 ## Állás: [ok]
 - Kapcsolatban engem kellene megadni és Mátyus Józsit. 
 
-## Kapcsolat:
+## Kapcsolat: [ok]
 - A kapcsolatnál a Hajninál lévő vezetékest kellene megadni, a faxot kitörölni. 
 
 ### Jocó hoz majd képeket.   .
