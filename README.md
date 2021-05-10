@@ -4,7 +4,7 @@
 2. ISO-t le kell venni 
 3. Gépjármű bérbeadás rövid-, és hosszú távra 
 
-## Rólunk:
+## Rólunk: [ok]
 1. A legnagyobb megbízókat kivenni, nem kell 
 2. A vállalat bemutatása: 
 Vállalatunk jogelődje a König-Plus Bt. 2001. november 29-én alakult, amely 2008. február 15-e óta König-Plus Kft. néven működik. A magyar magánszemélyek tulajdonában lévő több tíz éves szakmai és üzleti tapasztalattal rendelkező cég belföldi-, és nemzetközi fuvarozással foglalkozik. 
@@ -15,7 +15,7 @@ Flottánk jellemzően 3,5 és 12 tonnás, hűtős, különböző fuvarfeladatok 
 Reméljük, hogy a jövőben Ön is megismeri cégünket. 
 
 ## Szolgáltatásaink:  
-### Nemzetközi szállítmányozás:
+### Nemzetközi szállítmányozás: [ok]
 - A nemzetközi szállítmányozásnál maradhat, ami ott van, csak Ancsát kellene feltüntetni. 
 
 ### Belföldi szállítmányozás:
