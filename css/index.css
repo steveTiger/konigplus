@@ -926,12 +926,12 @@
 	margin-right: -10000px;
 	margin-top: -11px;
 	left: -11px;
-	background: url("../images/u3772.png") no-repeat 0px 0px;
+	/* background: url("../images/u3772.png") no-repeat 0px 0px; */
 }
 
 #u3772:hover
 {
-	background: url("../images/u3772-r.png") no-repeat 0px 0px;
+	/* background: url("../images/u3772-r.png") no-repeat 0px 0px; */
 }
 
 #u3786

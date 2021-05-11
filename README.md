@@ -1,8 +1,8 @@
 # König Plus Kft weboldal
 ## Főoldal:
-1. A személyszállítást ki kellene venni és a raktározást. 
-2. ISO-t le kell venni 
-3. Gépjármű bérbeadás rövid-, és hosszú távra 
+1. A személyszállítást ki kellene venni és a raktározást. [ok]
+2. ISO-t le kell venni [ok]
+3. Gépjármű bérbeadás rövid-, és hosszú távra [ok]
 
 ## Rólunk: [ok]
 1. A legnagyobb megbízókat kivenni, nem kell 
